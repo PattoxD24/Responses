@@ -1,0 +1,17 @@
+{
+    "name": "pattoxd/responses",
+    "description": "Basic HTTP Responses",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Pattoxd\\Responses\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PattoxD",
+            "email": "edgaripatricio@gmail.com"
+        }
+    ],
+    "require": {}
+}
